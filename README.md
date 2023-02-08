@@ -1,6 +1,6 @@
 # ACM Open Source Project Spring 2023
 
-Welcome to the Open Source Project! We meet every Wednesday on Discord at 5:30pm. We're excited to build something amazing together!
+Welcome to the Open Source Project! We meet every Wednesday on Discord at 5:30pm. We're excited to build something amazing together!hi
 
 <br>
 
@@ -18,7 +18,7 @@ Welcome to the Open Source Project! We meet every Wednesday on Discord at 5:30pm
 
 William Sirotkin - Discord: @williamsirotkin
 
-Raymond Feckoury - Discord: @RaymondFeckoury
+Raymond Feckoury - Discord: @RaymondFeckoury#8353
 
 <br>
 
